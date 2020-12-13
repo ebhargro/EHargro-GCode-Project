@@ -1,0 +1,67 @@
+body {
+  background-color: #ECE3F3
+}
+html {
+  font-family: 'Karla', sans-serif;
+}
+span {
+  font-weight: bold;
+  font-style: italic;
+}
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+img {
+  float: left;
+  height: 100px;
+  width: 100px;
+}
+
+h2 {
+  text-decoration: underline;
+  text-align: center;
+  background-color: white;
+  color: black;
+}
+h3 {
+  text-decoration: underline;
+  background-color: white;
+  text-align: center;
+  color: black;
+}
+
+.definition {
+  text-align: center;
+  background-color: white;
+}
+#backstory {
+  border: 10px double darkgray;
+  border-radius: 20px;
+  padding:20px;
+}
+#note {
+  border: 10px double darkgray;
+  border-radius: 20px;
+  padding:20px;
+}
+#communities {
+  text-align: center;
+}
+#final {
+  border: 10px double darkgray;
+  border-radius: 20px;
+  padding:20px;
+}
+ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+#schoolOfLifeVid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
