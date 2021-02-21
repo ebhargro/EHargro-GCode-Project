@@ -12,7 +12,7 @@ var lightModeButton = document.getElementById("lightModeButton");
 lightModeButton.addEventListener("click", lightMode);
 
 function lightMode() {
-    document.body.style.backgroundColor = "rgb(239,225,244)";
+    document.body.style.backgroundColor = "rgb(240,234,214)";
     document.body.style.color="black";
 }
 //* Create a variable for the "Sign up" button//*
